@@ -1,0 +1,8 @@
+# ninja log v5
+1	887	7110043302755462	CMakeFiles/laboratorio1_GC.dir/main.cpp.obj	872688e54f374e99
+891	1015	7110043304001607	laboratorio1_GC.exe	1a2d213e31be3603
+5	435	7110043763600945	CMakeFiles/laboratorio1_GC.dir/main.cpp.obj	872688e54f374e99
+12	1390	7110043773139946	CMakeFiles/laboratorio1_GC.dir/src/framebuffer.cpp.obj	d386613c8afa61
+1391	1536	7110043774557530	laboratorio1_GC.exe	b28b0aaf64e74f28
+5	469	7110045250603734	CMakeFiles/laboratorio1_GC.dir/main.cpp.obj	872688e54f374e99
+470	627	7110045252122363	laboratorio1_GC.exe	b28b0aaf64e74f28
